@@ -1,0 +1,35 @@
+{
+    "name": "rest-main_router_builder",
+    "deps": {
+        "rest-log": {
+            "owner": "aramtech",
+            "repo": "rest-log",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-channels_builder": {
+            "owner": "aramtech",
+            "repo": "rest-channels_builder",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-express": {
+            "owner": "aramtech",
+            "repo": "rest-express",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-routers_helpers": {
+            "owner": "aramtech",
+            "repo": "rest-routers_helpers",
+            "update_policy": "major",
+            "version": "0.1.0"
+        }
+    },
+    "public_repo": false,
+    "private": false,
+    "owner": "aramtech",
+    "hash": "Uw1ktbqnWzesy1YCiGhSFu_-1uQqfA6lQGhwWFjnWsE",
+    "version": "0.2.4",
+    "description": ""
+}
